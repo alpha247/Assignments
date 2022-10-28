@@ -1,0 +1,104 @@
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+▼
+▼
+▼
+▼
+▼
+▼
+  margin: 0;
+  text-decoration: none;
+  display: inline-block;
+  width: 250px;
+  height:50px;
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+}
+
+li::before {
+  content: "• ";
+  color: 
+#ff8c00;
+}
+footer{
+    background-color: 
+#99CCCC;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+  border-top: 
+#e8491d 2px solid;
+    left: 0;
+    right: 0;
+    height:auto;
+    padding-top: -25px;
+}
+
+.fa {
+    padding: 0px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: 
+black;
+  }
+.fa:hover,
+.fa:focus {
+  color: 
+hotpink;
+}
+  .copyright{
+      text-align: center;
+      margin: 0;
+      width:60;
+      font-weight: 30;
+      margin-left: 20px;
+    
+  }
